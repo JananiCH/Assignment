@@ -33,7 +33,7 @@ class _LoginPageState extends State<LoginPage> {
                   margin: const EdgeInsets.only(top: 60),
                   color: Colors.white,
                   child: Image.asset(
-                    "assets/images/logoo.png",
+                    "assets/images/logo.png",
                     width: 200,
                     height: 200,
                   ),
@@ -155,7 +155,7 @@ class _LoginPageState extends State<LoginPage> {
                           Padding(
                             padding: const EdgeInsets.only(right: 20),
                             child: Image.asset(
-                              "assets/images/fblogo.png",
+                              "assets/images/fb.png",
                               width: 30,
                               height: 30,
                             ),
@@ -163,13 +163,13 @@ class _LoginPageState extends State<LoginPage> {
                           Padding(
                             padding: const EdgeInsets.only(right: 20),
                             child: Image.asset(
-                              "assets/images/instalogo.png",
+                              "assets/images/insta.png",
                               width: 30,
                               height: 30,
                             ),
                           ),
                           Image.asset(
-                            "assets/images/inlogo.png",
+                            "assets/images/linkedin.png",
                             width: 30,
                             height: 30,
                           ),
